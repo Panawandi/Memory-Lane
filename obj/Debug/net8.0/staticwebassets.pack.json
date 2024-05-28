@@ -1,0 +1,541 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ML.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ML.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\among_us.ico",
+      "PackagePath": "staticwebassets\\among_us.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\css\\Home\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\css\\Home\\Video.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Video.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\css\\Home\\apexVideo.css",
+      "PackagePath": "staticwebassets\\css\\Home\\apexVideo.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\css\\Introduction\\Introduction.css",
+      "PackagePath": "staticwebassets\\css\\Introduction\\Introduction.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\css\\User\\Login.css",
+      "PackagePath": "staticwebassets\\css\\User\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\css\\User\\Register.css",
+      "PackagePath": "staticwebassets\\css\\User\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\images\\Introduction\\Sam.png",
+      "PackagePath": "staticwebassets\\images\\Introduction\\Sam.png"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\images\\Introduction\\ali.png",
+      "PackagePath": "staticwebassets\\images\\Introduction\\ali.png"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\images\\Introduction\\amongus.png",
+      "PackagePath": "staticwebassets\\images\\Introduction\\amongus.png"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\images\\Introduction\\mcdonalds.png",
+      "PackagePath": "staticwebassets\\images\\Introduction\\mcdonalds.png"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\images\\Lol\\background.png",
+      "PackagePath": "staticwebassets\\images\\Lol\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\js\\apexVideos.js",
+      "PackagePath": "staticwebassets\\js\\apexVideos.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\js\\recommendedBox.js",
+      "PackagePath": "staticwebassets\\js\\recommendedBox.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\js\\videoScript.js",
+      "PackagePath": "staticwebassets\\js\\videoScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Among Us\\Ali mista det på Kian.mp4",
+      "PackagePath": "staticwebassets\\videos\\Among Us\\Ali mista det på Kian.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Among Us\\HVA FAEN.mp4",
+      "PackagePath": "staticwebassets\\videos\\Among Us\\HVA FAEN.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Among Us\\brusk sin sleik meg.mp4",
+      "PackagePath": "staticwebassets\\videos\\Among Us\\brusk sin sleik meg.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Among Us\\clutch of the year av mohammed.mp4",
+      "PackagePath": "staticwebassets\\videos\\Among Us\\clutch of the year av mohammed.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Among Us\\hama shapshifter.mp4",
+      "PackagePath": "staticwebassets\\videos\\Among Us\\hama shapshifter.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Among Us\\huncho 3rd imposter.mp4",
+      "PackagePath": "staticwebassets\\videos\\Among Us\\huncho 3rd imposter.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Among Us\\jeg liker å få.mp4",
+      "PackagePath": "staticwebassets\\videos\\Among Us\\jeg liker å få.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Among Us\\sarrow death cringe.mp4",
+      "PackagePath": "staticwebassets\\videos\\Among Us\\sarrow death cringe.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\Hvem spurte.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\Hvem spurte.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\ali og sauer.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\ali og sauer.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\ali skyter allies 2.0.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\ali skyter allies 2.0.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\ali skyter allies 3.0.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\ali skyter allies 3.0.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\ali skyter allies.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\ali skyter allies.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\bare ikke fall ned.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\bare ikke fall ned.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\bro just....mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\bro just....mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\dont hate me cuz im black.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\dont hate me cuz im black.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\du henta inn eksen min.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\du henta inn eksen min.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\du pinga ikke før nå.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\du pinga ikke før nå.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\endri og pikk.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\endri og pikk.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\gunduz model x 1993.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\gunduz model x 1993.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\han gir meg kukken sin.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\han gir meg kukken sin.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\jeg ble plutselig tatt bakifra.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\jeg ble plutselig tatt bakifra.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\mansur choke.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\mansur choke.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\mansur doggy.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\mansur doggy.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\nice jump sarrow.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\nice jump sarrow.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\what was that.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\what was that.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\william vil ikke spille tror jeg.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\william vil ikke spille tror jeg.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\zada kan bøye seg over.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\zada kan bøye seg over.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\zada vil bli tatt av mansur.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\zada vil bli tatt av mansur.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Apex\\øst, nei east.mp4",
+      "PackagePath": "staticwebassets\\videos\\Apex\\øst, nei east.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Fortnite\\ey gutta noen kaster ting på meg.mp4",
+      "PackagePath": "staticwebassets\\videos\\Fortnite\\ey gutta noen kaster ting på meg.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Fortnite\\hvorfor er du så jævla støgg i trynet.mp4",
+      "PackagePath": "staticwebassets\\videos\\Fortnite\\hvorfor er du så jævla støgg i trynet.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Fortnite\\le qozet bm.mp4",
+      "PackagePath": "staticwebassets\\videos\\Fortnite\\le qozet bm.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Fortnite\\sit the fuck down.mp4",
+      "PackagePath": "staticwebassets\\videos\\Fortnite\\sit the fuck down.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Introduction\\zardi dans.mov",
+      "PackagePath": "staticwebassets\\videos\\Introduction\\zardi dans.mov"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\DIN TILBAKESTÅENDE HEST.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\DIN TILBAKESTÅENDE HEST.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\Hamashet smurfa.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\Hamashet smurfa.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\Kian mistet det på Sam.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\Kian mistet det på Sam.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\Sam J4.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\Sam J4.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\Sam clean pyke.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\Sam clean pyke.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\Sam hvem spurte.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\Sam hvem spurte.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\Syamand er en troll.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\Syamand er en troll.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\ali slutt å klag.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\ali slutt å klag.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\brusk chiri dawa.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\brusk chiri dawa.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\dickriders hele gjengen.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\dickriders hele gjengen.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\endri ikke gå fra meg værsåsnill.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\endri ikke gå fra meg værsåsnill.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\gå i busken før jeg voldtar deg.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\gå i busken før jeg voldtar deg.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\hva så om jeg gjør.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\hva så om jeg gjør.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\malphite ult backdoor.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\malphite ult backdoor.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\mansur ganks be like.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\mansur ganks be like.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\også fjerna han den.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\også fjerna han den.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\river psychology.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\river psychology.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\squater zebben din.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\squater zebben din.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dilovan\\Individual Projects\\ML - Copy\\wwwroot\\videos\\Leauge\\sånn jeg er klar.mp4",
+      "PackagePath": "staticwebassets\\videos\\Leauge\\sånn jeg er klar.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ML.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ML.props",
+      "PackagePath": "build\\ML.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ML.props",
+      "PackagePath": "buildMultiTargeting\\ML.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ML.props",
+      "PackagePath": "buildTransitive\\ML.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
