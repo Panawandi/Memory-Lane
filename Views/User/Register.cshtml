@@ -1,0 +1,43 @@
+@{
+    ViewData["Title"] = "Register";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/User/Register.css">
+</head>
+
+<body>
+    <h1>Register</h1>
+
+    @if (!string.IsNullOrEmpty(ViewBag.Error)){
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.Error
+        </div>
+    }
+
+    <form method="post", action="/User/Register">
+
+        <div class="form-group">
+            <label for="username">Username:</label>
+            <input type="text" class="form-control w-25" id="username" name="username">
+        </div>
+
+        <div class="form-group">
+            <label for="password">Password:</label>
+            <input type="password" class="form-control w-25" id="password" name="password">
+        </div>
+
+        <br>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Register</button>
+        </div>
+        
+    </form>
+
+    <div class="a">
+        <a href="/User/Login"><button class="btn btn-primary">Login</button></a>
+        <a href="/User/Login"><p>Already registered?</p></a>
+    </div>
+
+</body>

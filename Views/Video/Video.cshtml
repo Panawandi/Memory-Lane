@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="~/js/videoScript.js"></script>
+    <link rel="stylesheet" href="~/css/Home/Video.css">
+    <title>Video Player</title>
+</head>
+
+<body>
+    <div class="video-wrapper">
+        <video autoplay controls id="videoPlayer">
+            <!-- Video source will be dynamically inserted here -->
+        </video>
+        <h1 class="video-title" id="videoTitle">Video Title</h1>
+    </div>
+
+    <div class="recommendation-wrapper">
+        <div class="recommendation-box" id="recommendationBox">
+
+                <!-- First Video -->
+            <div data-title="Ali mista det på Kian">
+                <a href="/AmongUs/AliMistaDetPåKian">
+                    <video>
+                        <source src="~/videos/Among Us/Ali mista det på Kian.mp4">
+                    </video>
+                </a>
+                <a href="/AmongUs/AliMistaDetPåKian">
+                    <p>Ali mista det på Kian</p>
+                </a>
+            </div>
+
+                <!-- Second Video -->
+            <div data-title="Sit the fuck down n****">
+                <a href="/Fortnite/SitTheFuckDown">
+                    <video>
+                        <source src="~/videos/Fortnite/sit the fuck down.mp4">
+                    </video>
+                </a>
+                <a href="/Fortnite/SitTheFuckDown">
+                    <p>Sit the fuck down n****</p>
+                </a>
+            </div>
+
+                <!-- Third Video -->
+            <div data-title="Squatter zebben din">
+                <a href="/Leauge/SquatterZebbenDin">
+                    <video>
+                        <source src="~/videos/Leauge/squater zebben din.mp4">
+                    </video>
+                </a>
+                <a href="/Leauge/SquatterZebbenDin">
+                    <p>Squatter zebben din</p>
+                </a>
+            </div>
+
+                <!-- Fourth Video -->
+            <div data-title="Brusk sin sleik meg">
+                <a href="/AmongUs/KjellEik">
+                    <video>
+                        <source src="~/videos/Among Us/brusk sin sleik meg.mp4">
+                    </video>
+                </a>
+                <a href="/AmongUs/KjellEik">
+                    <p>Brusk sin sleik meg</p>
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="comment-section">
+        <h2>Comments</h2>
+        <div class="existing-comments" id="existingComments">
+            <!-- Existing comments will be dynamically inserted here -->
+        </div>
+        <hr />
+        <form id="commentForm">
+            <div class="form-group">
+                <label>Add a Comment:</label>
+                <br>
+                <textarea class="form-control" id="commentText"></textarea>
+                <br>
+                <span class="text-danger" id="commentError"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit Comment</button>
+        </form>
+    </div>
+
+</body>
+
+</html>

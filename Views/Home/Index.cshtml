@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/Home/Index.css">
+    <script src="site.js" defer></script>
+</head>
+
+<body>
+
+    <div class="search-wrapper">
+        <input type="search" id="search" placeholder="Search">
+    </div>
+
+    <div class="video-container" id="videoContainer">
+
+        @foreach (var video in Model)
+        {
+            <div class="recommendation-box">
+                <a href="@Url.Action("Video", "Home", new { title = video.Title, url = video.Url })">
+                    <video>
+                        <source src="@video.Url">
+                    </video>
+                    <p>@video.Title</p>
+                </a>
+            </div>
+        }
+
+    </div>
+    
+</body>
