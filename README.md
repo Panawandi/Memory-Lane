@@ -7,3 +7,4 @@ Features
 User registration and authentication
 Video playback and sharing
 Comments (Coming Soon!): Users will soon be able to comment on videos to share their thoughts and memories with each other.
+Memory Lane is not yet public(Soon to be!).
