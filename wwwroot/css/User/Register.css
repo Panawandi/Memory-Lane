@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    /*background-image: url('/images/Lol/background.png');*/
+    background-color: #181818;
+}
+
+h1 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    color: #ffffff;
+}
+
+.form-control {
+    border-width: 2px;
+    border-color: #85bbff;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    border-width: 2px;
+    border-radius: 16px;
+    border-color: #85bbff;
+    color: #444;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    margin-bottom: 35px;
+}
+
+.btn:hover {
+    border-width: 2px;
+    border-color: #85bbff;
+    background-color: #444;
+    color: #ffffff;
+}
+
+a.login {
+    color: #ffffff;
+    background-color: #85bbff;
+}
+
+a:hover {
+    border-width: 2px;
+    border-color: #85bbff;
+    color: #444;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    color: #ffffff;
+}
